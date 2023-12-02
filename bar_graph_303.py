@@ -2,7 +2,7 @@
 *****************************************************************************************
 *
 *        		===============================================
-*           	e-Yantra School Robotics Competition (eYSRC 2023)
+*           	               e-Yantra mini assignment 1
 *        		===============================================
 *
 *  This script is to be used to implement Mini Assignment titled- 'Drawing Polygons using Turtle'.
