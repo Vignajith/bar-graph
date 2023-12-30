@@ -2,24 +2,24 @@
 *****************************************************************************************
 *
 *        		===============================================
-*           	               e-Yantra mini assignment 1
+*           	                      mini task
 *        		===============================================
 *
-*  This script is to be used to implement Mini Assignment titled- 'Drawing Polygons using Turtle'.
+*  This script is to be used to implement Mini Task titled- 'Drawing Polygons using Turtle'.
 *  
 *  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
+*  Licensee/end user indemnifies and will keep morzilla indemnified from
 *  any and all claim(s) that emanate from the use of the Software or 
 *  breach of the terms of this agreement.
 *  
-*  e-Yantra - A MOE project under National Mission on Education using ICT (NMEICT)
+*  bar graph you can set height and weight
 *
 *****************************************************************************************
 '''
 
 # Team ID:          
 # 					[ Team-ID ]
-# Author List:      
+# Author List:   Vignajith   
 # 					[ Names of team members worked on this file separated by Comma: Name1, Name2, ... ]
 # Filename:         bar_graph.py
 # Functions:        
