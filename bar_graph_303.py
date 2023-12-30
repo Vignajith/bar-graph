@@ -2,24 +2,24 @@
 *****************************************************************************************
 *
 *        		===============================================
-*           	               e-Yantra mini assignment 1
+*           	                               mini task
 *        		===============================================
 *
-*  This script is to be used to implement Mini Assignment titled- 'Drawing Polygons using Turtle'.
+*  This script is to be used to implement Mini Task titled- 'Drawing Polygons using Turtle'.
 *  
 *  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
+*  Licensee/end user indemnifies and will keep morzilla indemnified from
 *  any and all claim(s) that emanate from the use of the Software or 
 *  breach of the terms of this agreement.
 *  
-*  e-Yantra - A MOE project under National Mission on Education using ICT (NMEICT)
+* 
 *
 *****************************************************************************************
 '''
 
 # Team ID:          
 # 					[ Team-ID ]
-# Author List:      
+# Author List:   Vignajith   
 # 					[ Names of team members worked on this file separated by Comma: Name1, Name2, ... ]
 # Filename:         bar_graph.py
 # Functions:        
@@ -85,7 +85,7 @@ Use the following lines of code  to initialize the screen that is to be used by 
 	
 NOTE: 
 1. Width and Height of the screen should both be 800 pixels.
-2. Team has to use data given by e-Yantra Team to plot the bar graph.
+2. Team has to use data given by Team to plot the bar graph.
 ---
 """
 
@@ -108,7 +108,7 @@ Purpose:
 Use the following lines of code  to call the function to show the student's height data on bar graph ,set position of the turtle to display the mean & median on the screen.
  
 NOTE:
-1. Team has to use data(student's height in form of list) given by e-Yantra Team to plot the bar graph.
+1. Team has to use data(student's height in form of list) given by Team to plot the bar graph.
 """
 
 ##############	ADD YOUR CODE HERE	##############
@@ -130,7 +130,7 @@ Purpose:
 Use the following lines of code  to call the function to show the student's weight data on bar graph ,set position of the turtle to display the mean & median on the screen.
 
 NOTE:
-1. Team has to use data(student's weight in form of list) given by e-Yantra Team to plot the bar graph.
+1. Team has to use data(student's weight in form of list) given by Team to plot the bar graph.
 """
 
 ##############	ADD YOUR CODE HERE	##############
